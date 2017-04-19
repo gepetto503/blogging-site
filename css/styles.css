@@ -1,0 +1,13 @@
+.post {
+  width: 300px;
+  display: inline-block;
+}
+
+.about-me {
+  font-style:italic;
+  font-family: fantasy;
+}
+
+.post h3 {
+  color: blue;
+}
